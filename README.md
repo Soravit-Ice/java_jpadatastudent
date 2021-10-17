@@ -1,1 +1,3 @@
-# java_jpadatastudent
+# JAVA_JPADATASTUDENT
+
+Ex.6 JPA
